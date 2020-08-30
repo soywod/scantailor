@@ -4,3 +4,5 @@ CMakeFiles
 *.h.moc
 build/
 *~
+.version.h
+CMakeCache.txt
